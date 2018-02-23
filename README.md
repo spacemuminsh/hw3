@@ -1,5 +1,6 @@
 ## Home work 3
-Тема опроса: **Андрей Тарковский** \n
+Тема опроса: **Андрей Тарковский**
+
 Число прошедших опрос: **66**
 
 [Таблица с результатами](https://docs.google.com/spreadsheets/d/1TQSJdW5lccfmeV8IUr0tZJ7gTyNAVt6SW35FQJf45BY/edit?usp=sharing)
